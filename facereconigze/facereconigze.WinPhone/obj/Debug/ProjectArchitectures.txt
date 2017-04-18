@@ -1,0 +1,2 @@
+F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\facereconigze.WinPhone.csproj;neutral
+F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\facereconigze.csproj;neutral

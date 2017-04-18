@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="f:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.winphone\obj\debug\intermediatexaml\facereconigze.winphone.exe" HashGuid="52054fdd-9b89-1ffb-0798-2cbefa6e6aa4" />
+    <ReferenceAssembly PathName="f:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\debug\facereconigze.dll" HashGuid="8a1c7dee-127e-9e2e-81b3-7753b4027b4e" />
+    <ReferenceAssembly PathName="f:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\xam.plugin.media.2.6.2\lib\wpa81\plugin.media.abstractions.dll" HashGuid="2f026a7c-41cf-6c4a-d5ab-5661045873a2" />
+    <ReferenceAssembly PathName="f:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\xam.plugin.media.2.6.2\lib\wpa81\plugin.media.dll" HashGuid="674591e9-0ebc-35be-1d0b-dce742167069" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

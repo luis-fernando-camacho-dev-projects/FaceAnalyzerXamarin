@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-13DA2KI</Machine>
+    <WindowsUser>Luis Fernando Camach</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8877204e-d7ab-4c2a-ba85-df930a47ce48</PackageIdentityName>
+    <PackageIdentityPublisher>CN=joe</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\facereconigze.WinPhone.exe">
+      <PackagePath>facereconigze.WinPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\facereconigze.WinPhone.exe.config">
+      <PackagePath>facereconigze.WinPhone.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\Debug\facereconigze.dll">
+      <PackagePath>facereconigze.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\Xam.Plugin.Media.2.6.2\lib\wpa81\Plugin.Media.Abstractions.dll">
+      <PackagePath>Plugin.Media.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\Xam.Plugin.Media.2.6.2\lib\wpa81\Plugin.Media.dll">
+      <PackagePath>Plugin.Media.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\Debug\Microsoft.ProjectOxford.Face.dll">
+      <PackagePath>Microsoft.ProjectOxford.Face.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\Debug\Microsoft.ProjectOxford.Emotion.dll">
+      <PackagePath>Microsoft.ProjectOxford.Emotion.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\Debug\Microsoft.ProjectOxford.Common.dll">
+      <PackagePath>Microsoft.ProjectOxford.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\facereconigze.WinPhone.xr.xml">
+      <PackagePath>facereconigze.WinPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\Dialog.xbf">
+      <PackagePath>Dialog.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\Xam.Plugin.Media.2.6.2\lib\wpa81\Plugin.Media\CameraCaptureUI.xbf">
+      <PackagePath>Plugin.Media\CameraCaptureUI.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\Xam.Plugin.Media.2.6.2\lib\wpa81\Plugin.Media\CameraCaptureUIPage.xbf">
+      <PackagePath>Plugin.Media\CameraCaptureUIPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\packages\Xam.Plugin.Media.2.6.2\lib\wpa81\Plugin.Media\Plugin.Media.xr.xml">
+      <PackagePath>Plugin.Media\Plugin.Media.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\xamarin\microsotf_cognitive_sevices\facereconigze\facereconigze\facereconigze.WinPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
